@@ -5,7 +5,7 @@ title: Welcome to my blog!
 
 My name is Liang Li and I am currently majoring in automation at China University of Mining and Technology. 
 
-## Research Interest
+## 🤖 Research Interests
 
 - Dexterous Manipulation
 - Real-World Reinforcement Learning
